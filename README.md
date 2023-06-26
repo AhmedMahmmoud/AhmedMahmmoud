@@ -11,8 +11,8 @@
 - 🧠 I'm fascinated by the ability of AI to learn and improve over time, and I'm excited about the possibilities this holds for the future of technology.
 - 🌎 I believe that AI and Data Science have the potential to create a more sustainable and equitable future for all, and I'm committed to contributing to this vision.
 - 📫 How to reach me .....
-. Outlook: ahmedbarakat5665757@outlook.com
-. E-mail: ahmedbarakat607080@gmail.com
+- Outlook: ahmedbarakat5665757@outlook.com
+- E-mail: ahmedbarakat607080@gmail.com
 
 <!---
 AhmedMahmmoud/AhmedMahmmoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
